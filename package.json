@@ -23,7 +23,7 @@
     "react-router-dom": "^6.22.3",
     "react-toastify": "^10.0.5",
      "@rollup/rollup-linux-x64-gnu": "^4.9.2",
-    “vite”: “^5.1.4”
+     "vite": "^5.1.4"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
