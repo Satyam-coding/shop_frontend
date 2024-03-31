@@ -1,7 +1,7 @@
 import React, { useContext, useEffect, useState } from 'react'
 
 const MyContext = React.createContext();
-const BASE_URL='http://localhost:7000';
+const BASE_URL='https://api.render.com/deploy/srv-co4r5nkf7o1s73902el0?key=y2T3x_8s27o';
 const AuthProvider = ({children}) => {
 
     const [token, setToken] = useState(localStorage.getItem('token'));
